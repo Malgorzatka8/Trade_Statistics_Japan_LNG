@@ -1,6 +1,6 @@
 # Trade_Statistics_Japan_LNG
 
-Code downloads Japan's monthly LNG import data (QUANTITY and VALUE). Converts to USD usign Bank of Canada valet API. Brent prices added for reference. 
+Code downloads Japan's monthly LNG import data (QUANTITY and VALUE). Converts to USD using Bank of Canada FX valet API. Brent prices added for reference. 
 
 HS code for LNG: 271111
 
